@@ -1,5 +1,8 @@
 # Typing Wizard 🧙‍♂️
 
+![Typing Wizard GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTY3MzJocnJzejduOHc2eGx1ZnZlM2ZnNDFhcXlxZnFoaG40b3ZlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wFU6rArgQdPKpOeFSf/giphy.gif)
+
+
 ## About
 Typing Test CLI is a command-line tool designed to conduct typing tests, measuring users' typing speed and accuracy. It provides a straightforward environment for users to evaluate their typing skills efficiently.
 
