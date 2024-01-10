@@ -11,6 +11,11 @@ Typing Test CLI is a command-line tool designed to conduct typing tests, measuri
 - User-friendly command-line interface.
 - Customizable test duration and difficulty levels.
 
+## To-Do
+
+- [ ] Add support for clap library in the command-line interface
+
+
 ## Installation
 Ensure you have Rust installed. Then, follow these steps to set up the Typing Test CLI:
 
