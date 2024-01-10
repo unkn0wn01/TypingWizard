@@ -43,6 +43,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Feel free to reach out, provide feedback, or contribute to this project. Happy typing and enjoy testing your typing skills! 🎉👩‍💻
-```
+
 
 
