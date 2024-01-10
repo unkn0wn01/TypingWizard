@@ -1,4 +1,3 @@
-```markdown
 # Typing Wizard 🧙‍♂️
 
 ## About
@@ -11,6 +10,7 @@ Typing Test CLI is a command-line tool designed to conduct typing tests, measuri
 
 ## Installation
 Ensure you have Rust installed. Then, follow these steps to set up the Typing Test CLI:
+
 
 1. Clone the repository:
    ```bash
