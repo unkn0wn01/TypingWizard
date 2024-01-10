@@ -38,6 +38,10 @@ Ensure you have Rust installed. Then, follow these steps to set up the Typing Te
    cargo build --release
    ```
 
+**Tested on Linux**
+This software has been tested on Linux environments. While it has been optimized and verified for Linux systems, its functionality on Windows and macOS cannot be guaranteed.
+
+
 ## Usage
 - Start the Typing Test by running the executable or using `cargo run`.
 - The test will prompt you to type random words or sentences to measure your typing speed and accuracy.
